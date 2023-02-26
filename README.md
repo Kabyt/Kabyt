@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kabyt
 - 👀 I’m interested in learning more about front end wed development
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on working on projects/chalenges
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on working on projects/challenges
 - 📫 How to reach me 
 
 <!---
